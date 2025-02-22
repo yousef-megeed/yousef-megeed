@@ -1,6 +1,6 @@
 # 💫 About Me:
-i am currently a Computer Science and Engineering (CSE) student in the German University in Cairo<br>wishing to become a successful software engineer abroad.
 
+coding and probably overdosing in caffeine but oh well
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ym.abdelmegeed@gmail.com) 
