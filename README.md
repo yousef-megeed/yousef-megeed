@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-coding and probably overdosing in caffeine but oh well
+Turning caffeine into code, ideas into projects, and bugs into 'features'. 🚀💻
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ym.abdelmegeed@gmail.com) 
