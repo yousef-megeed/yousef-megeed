@@ -1,0 +1,29 @@
+name: Update project list
+
+on:
+  schedule:
+    - cron: "17 6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Rebuild the list from public repositories
+        run: python3 .github/scripts/update_projects.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Commit if anything changed
+        run: |
+          if git diff --quiet README.md; then
+            echo "No changes"
+            exit 0
+          fi
+          git config user.name "Yousef Abdelmegeed"
+          git config user.email "161981422+yousef-megeed@users.noreply.github.com"
+          git commit -am "Update project list"
+          git push
