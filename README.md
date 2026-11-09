@@ -16,6 +16,10 @@
 ## Projects
 
 <!-- projects:start -->
+- **[sciverdict](https://github.com/yousef-megeed/sciverdict)**: Checks scientific claims against research abstracts: search, evidence selection and verdicts, evaluated on SciFact. PyTorch, Transformers, FAISS, ONNX, FastAPI, Docker.
+- **[nestner-de](https://github.com/yousef-megeed/nestner-de)**: Nested German named entity recognition: two-level Transformer on GermEval 2014, served on CPU through quantized ONNX. PyTorch, Transformers, MLflow, FastAPI, Docker.
+- **[gridcast-de](https://github.com/yousef-megeed/gridcast-de)**: Probabilistic day-ahead forecasting of German grid load, tested against the official TSO forecast. PyTorch, LightGBM, conformal prediction, MLflow, FastAPI, Docker.
+- **[wav](https://github.com/yousef-megeed/wav)**: WAV is a cross-platform mobile app built with React Native & Expo that helps producers, vocalists, rappers, and songwriters discover and collaborate with complementary artists through swipe-based discovery, real-time audio messaging, and rich music profiles.
 <!-- projects:end -->
 
 ## Tech stack
