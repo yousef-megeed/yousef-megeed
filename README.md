@@ -10,7 +10,6 @@
 
 - 🎓 Studying M.Sc. in Artificial Intelligence and Machine Learning at TU Darmstadt
 - 🔍 Seeking Working Student roles and internships in ML and AI Engineering across Germany
-- ⚡ Recently built [GridCast DE](https://github.com/yousef-megeed/gridcast-de), which beat the official German grid load forecast by 32.5% in an 850-day backtest
 - 🛠️ Software engineering experience in backend, mobile and real-time systems, now building machine learning and AI systems
 
 ## Projects
